@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "CreatorBridge AI",
+  "short_name": "CreatorBridge",
+  "description": "Discover AI-native creators and build creative collaborations.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "categories": ["business", "productivity"],
+  "background_color": "#faf9f6",
+  "theme_color": "#faf9f6",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
